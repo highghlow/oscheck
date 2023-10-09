@@ -1,0 +1,1 @@
+cat oscheck.sh | tr "\n" " " | sed "s/[ ][ ]*/ /g"
